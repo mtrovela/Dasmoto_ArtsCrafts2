@@ -24,15 +24,15 @@ h2 {
   padding-top: 10px;
 }
 
-#brushes {
+.brushes {
   background-color: mediumspringgreen;
 }
 
-#frames {
+.frames {
   background-color: lightcoral;
 }
 
-#paints {
+.paints {
   background-color: skyblue;
 }
 
